@@ -1,5 +1,5 @@
-🎨 Bishal's Art Charbot 
-Tkinter-based Conversational Assistant with Personality & Dynamic Responses
+🎨 Bishal's Art Chatbot 
+  Tkinter-based Conversational Assistant with Personality & Dynamic Responses
 
 📌 Description:
   This project is a Tkinter-powered chatbot that simulates a virtual art shop assistant. It delivers engaging, personality-rich conversations through a styled GUI interface. The bot uses keyword-based intent recognition and rotating responses to provide natural, varied interactions.
