@@ -15,5 +15,5 @@
   🗂 Keyword-based intent recognition – Matches user queries to predefined topics
   💬 Styled chat bubbles – User messages (right-aligned, blue) and bot replies (left-aligned, green)
   🛍 Shop assistant knowledge base – Covers greetings, pricing, shop info, custom orders, payments, delivery, returns, and contact details
-  📞 Fallback response – Handles unknown queries gracefully with support contact info.
+  📞 Fallback response – Handles unknown queries gracefully with support contact info
   
